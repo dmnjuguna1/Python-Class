@@ -1,2 +1,2 @@
 # Python-Class
-This is a small change in python class
+This is a collection of small projects that I did while learning python
